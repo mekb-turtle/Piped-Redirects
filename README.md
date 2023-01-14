@@ -1,3 +1,3 @@
-# Piped-Redirects
+# Invidious-Redirects <s>Piped-Redirects</s>
 
-Redirect YouTube links to Piped!
+Redirect YouTube links to Invidious!
